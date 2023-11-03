@@ -1,3 +1,3 @@
 # TestiniumCaseStudy
 
-Please add Trello token and value on the configuration.properties
+Please add the Trello key and token on the configuration.properties
