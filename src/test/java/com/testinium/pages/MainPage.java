@@ -17,6 +17,8 @@ public class MainPage {
     public WebElement selectGender;
     @FindBy(css = ".o-header__search--input")
     public WebElement searchInput;
+    @FindBy(xpath = "//button[text()=\"No Thanks\"]")
+    public WebElement allowButton;
 
 
 }

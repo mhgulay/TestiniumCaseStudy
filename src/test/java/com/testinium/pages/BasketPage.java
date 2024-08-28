@@ -12,7 +12,7 @@ public class BasketPage {
     public BasketPage(){
         PageFactory.initElements(Driver.getDriver(),this);
     }
-    @FindBy(className = "m-productPrice__salePrice")
+    @FindBy(className = "priceBox__salePrice")
     public WebElement priceOnBasket;
     @FindBy(id = "quantitySelect0-key-0")
     public WebElement quantitySelect;

@@ -1,0 +1,104 @@
+2024-08-05 16:57:27 INFO  BeymenTask_Step_Defs:37 - Test started
+2024-08-05 16:57:37 INFO  BeymenTask_Step_Defs:50 - User is on the Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2024-08-05 16:57:44 INFO  BeymenTask_Step_Defs:59 - User is searching first keyword
+2024-08-05 16:57:44 INFO  BeymenTask_Step_Defs:64 - User is clearing the search box
+2024-08-05 16:57:49 INFO  BeymenTask_Step_Defs:73 - User is searching second keyword
+2024-08-05 16:58:01 INFO  BeymenTask_Step_Defs:86 - User is clicking the Enter button
+2024-08-05 16:58:01 INFO  BeymenTask_Step_Defs:91 - User is choosing random product
+2024-08-05 16:58:09 INFO  BeymenTask_Step_Defs:101 - Gets the product information and writes the file
+2024-08-05 16:58:11 INFO  BeymenTask_Step_Defs:111 - User is adding to basket random product
+2024-08-05 16:58:11 INFO  BeymenTask_Step_Defs:123 - User is checking the price value and checking basket price value
+2024-08-06 15:29:24 INFO  BeymenTask_Step_Defs:37 - Test started
+2024-08-06 15:29:34 INFO  BeymenTask_Step_Defs:50 - User is on the Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2024-08-06 15:29:41 INFO  BeymenTask_Step_Defs:59 - User is searching first keyword
+2024-08-06 15:29:41 INFO  BeymenTask_Step_Defs:64 - User is clearing the search box
+2024-08-06 15:29:45 INFO  BeymenTask_Step_Defs:73 - User is searching second keyword
+2024-08-06 15:30:04 INFO  BeymenTask_Step_Defs:86 - User is clicking the Enter button
+2024-08-06 15:30:04 INFO  BeymenTask_Step_Defs:91 - User is choosing random product
+2024-08-06 15:30:12 INFO  BeymenTask_Step_Defs:101 - Gets the product information and writes the file
+2024-08-06 15:30:14 INFO  BeymenTask_Step_Defs:111 - User is adding to basket random product
+2024-08-06 15:30:15 INFO  BeymenTask_Step_Defs:123 - User is checking the price value and checking basket price value
+2024-08-19 14:12:27 INFO  BeymenTask_Step_Defs:37 - Test started
+2024-08-19 14:12:37 INFO  BeymenTask_Step_Defs:50 - User is on the Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2024-08-19 14:12:44 INFO  BeymenTask_Step_Defs:59 - User is searching first keyword
+2024-08-19 14:12:44 INFO  BeymenTask_Step_Defs:64 - User is clearing the search box
+2024-08-19 14:12:51 INFO  BeymenTask_Step_Defs:73 - User is searching second keyword
+2024-08-19 14:16:03 INFO  BeymenTask_Step_Defs:37 - Test started
+2024-08-19 14:16:15 INFO  BeymenTask_Step_Defs:52 - User is on the Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2024-08-19 14:16:21 INFO  BeymenTask_Step_Defs:61 - User is searching first keyword
+2024-08-19 14:16:21 INFO  BeymenTask_Step_Defs:66 - User is clearing the search box
+2024-08-19 14:16:26 INFO  BeymenTask_Step_Defs:75 - User is searching second keyword
+2024-08-19 14:16:37 INFO  BeymenTask_Step_Defs:88 - User is clicking the Enter button
+2024-08-19 14:16:37 INFO  BeymenTask_Step_Defs:93 - User is choosing random product
+2024-08-19 14:16:42 INFO  BeymenTask_Step_Defs:103 - Gets the product information and writes the file
+2024-08-19 14:17:14 INFO  BeymenTask_Step_Defs:37 - Test started
+2024-08-19 14:17:28 INFO  BeymenTask_Step_Defs:52 - User is on the Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2024-08-19 14:17:34 INFO  BeymenTask_Step_Defs:61 - User is searching first keyword
+2024-08-19 14:17:34 INFO  BeymenTask_Step_Defs:66 - User is clearing the search box
+2024-08-19 14:17:38 INFO  BeymenTask_Step_Defs:75 - User is searching second keyword
+2024-08-19 14:17:53 INFO  BeymenTask_Step_Defs:88 - User is clicking the Enter button
+2024-08-19 14:17:53 INFO  BeymenTask_Step_Defs:93 - User is choosing random product
+2024-08-19 14:18:01 INFO  BeymenTask_Step_Defs:103 - Gets the product information and writes the file
+2024-08-19 14:18:03 INFO  BeymenTask_Step_Defs:113 - User is adding to basket random product
+2024-08-19 14:18:48 INFO  BeymenTask_Step_Defs:37 - Test started
+2024-08-19 14:19:03 INFO  BeymenTask_Step_Defs:52 - User is on the Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2024-08-19 14:19:10 INFO  BeymenTask_Step_Defs:61 - User is searching first keyword
+2024-08-19 14:19:10 INFO  BeymenTask_Step_Defs:66 - User is clearing the search box
+2024-08-19 14:19:14 INFO  BeymenTask_Step_Defs:75 - User is searching second keyword
+2024-08-19 14:19:27 INFO  BeymenTask_Step_Defs:88 - User is clicking the Enter button
+2024-08-19 14:19:27 INFO  BeymenTask_Step_Defs:93 - User is choosing random product
+2024-08-19 14:19:35 INFO  BeymenTask_Step_Defs:103 - Gets the product information and writes the file
+2024-08-19 14:19:37 INFO  BeymenTask_Step_Defs:113 - User is adding to basket random product
+2024-08-19 14:19:37 INFO  BeymenTask_Step_Defs:125 - User is checking the price value and checking basket price value
+2024-08-19 15:10:08 INFO  BeymenTask_Step_Defs:37 - Test started
+2024-08-19 15:10:23 INFO  BeymenTask_Step_Defs:52 - User is on the Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2024-08-19 15:10:30 INFO  BeymenTask_Step_Defs:61 - User is searching first keyword
+2024-08-19 15:10:30 INFO  BeymenTask_Step_Defs:66 - User is clearing the search box
+2024-08-19 15:10:34 INFO  BeymenTask_Step_Defs:75 - User is searching second keyword
+2024-08-19 15:10:46 INFO  BeymenTask_Step_Defs:88 - User is clicking the Enter button
+2024-08-19 15:10:46 INFO  BeymenTask_Step_Defs:93 - User is choosing random product
+2024-08-19 15:10:53 INFO  BeymenTask_Step_Defs:103 - Gets the product information and writes the file
+2024-08-19 15:10:55 INFO  BeymenTask_Step_Defs:113 - User is adding to basket random product
+2024-08-19 15:10:56 INFO  BeymenTask_Step_Defs:125 - User is checking the price value and checking basket price value
+2024-08-28 12:42:27 INFO  BeymenTask_Step_Defs:37 - Test started
+2024-08-28 12:42:40 INFO  BeymenTask_Step_Defs:52 - User is on the Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2024-08-28 12:42:47 INFO  BeymenTask_Step_Defs:61 - User is searching first keyword
+2024-08-28 12:42:47 INFO  BeymenTask_Step_Defs:66 - User is clearing the search box
+2024-08-28 12:42:51 INFO  BeymenTask_Step_Defs:75 - User is searching second keyword
+2024-08-28 12:43:04 INFO  BeymenTask_Step_Defs:88 - User is clicking the Enter button
+2024-08-28 12:43:04 INFO  BeymenTask_Step_Defs:93 - User is choosing random product
+2024-08-28 12:43:11 INFO  BeymenTask_Step_Defs:103 - Gets the product information and writes the file
+2024-08-28 12:43:13 INFO  BeymenTask_Step_Defs:113 - User is adding to basket random product
+2024-08-28 12:43:13 INFO  BeymenTask_Step_Defs:125 - User is checking the price value and checking basket price value
+2024-08-28 12:43:46 INFO  BeymenTask_Step_Defs:37 - Test started
+2024-08-28 12:43:59 INFO  BeymenTask_Step_Defs:52 - User is on the Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2024-08-28 12:44:06 INFO  BeymenTask_Step_Defs:61 - User is searching first keyword
+2024-08-28 12:44:06 INFO  BeymenTask_Step_Defs:66 - User is clearing the search box
+2024-08-28 12:44:10 INFO  BeymenTask_Step_Defs:75 - User is searching second keyword
+2024-08-28 12:44:22 INFO  BeymenTask_Step_Defs:88 - User is clicking the Enter button
+2024-08-28 12:44:22 INFO  BeymenTask_Step_Defs:93 - User is choosing random product
+2024-08-28 12:44:29 INFO  BeymenTask_Step_Defs:103 - Gets the product information and writes the file
+2024-08-28 12:44:32 INFO  BeymenTask_Step_Defs:113 - User is adding to basket random product
+2024-08-28 12:44:32 INFO  BeymenTask_Step_Defs:125 - User is checking the price value and checking basket price value
+2024-08-28 12:50:04 INFO  BeymenTask_Step_Defs:37 - Test started
+2024-08-28 12:50:18 INFO  BeymenTask_Step_Defs:52 - User is on the Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2024-08-28 12:50:25 INFO  BeymenTask_Step_Defs:61 - User is searching first keyword
+2024-08-28 12:50:25 INFO  BeymenTask_Step_Defs:66 - User is clearing the search box
+2024-08-28 12:50:29 INFO  BeymenTask_Step_Defs:75 - User is searching second keyword
+2024-08-28 12:50:41 INFO  BeymenTask_Step_Defs:88 - User is clicking the Enter button
+2024-08-28 12:50:41 INFO  BeymenTask_Step_Defs:93 - User is choosing random product
+2024-08-28 12:50:47 INFO  BeymenTask_Step_Defs:103 - Gets the product information and writes the file
+2024-08-28 12:50:50 INFO  BeymenTask_Step_Defs:113 - User is adding to basket random product
+2024-08-28 12:50:50 INFO  BeymenTask_Step_Defs:125 - User is checking the price value and checking basket price value
+2024-08-28 12:52:49 INFO  BeymenTask_Step_Defs:37 - Test started
+2024-08-28 12:53:02 INFO  BeymenTask_Step_Defs:52 - User is on the Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2024-08-28 12:53:10 INFO  BeymenTask_Step_Defs:61 - User is searching first keyword
+2024-08-28 12:53:10 INFO  BeymenTask_Step_Defs:66 - User is clearing the search box
+2024-08-28 12:53:14 INFO  BeymenTask_Step_Defs:75 - User is searching second keyword
+2024-08-28 12:53:27 INFO  BeymenTask_Step_Defs:88 - User is clicking the Enter button
+2024-08-28 12:53:27 INFO  BeymenTask_Step_Defs:93 - User is choosing random product
+2024-08-28 12:53:33 INFO  BeymenTask_Step_Defs:103 - Gets the product information and writes the file
+2024-08-28 12:53:35 INFO  BeymenTask_Step_Defs:113 - User is adding to basket random product
+2024-08-28 12:53:36 INFO  BeymenTask_Step_Defs:125 - User is checking the price value and checking basket price value
+2024-08-28 12:53:39 INFO  BeymenTask_Step_Defs:140 - User is increasing the quantity, it is confirmed that the number of products is 2.
+2024-08-28 12:53:49 INFO  BeymenTask_Step_Defs:158 - User deleted product from the basket and checks for the basket is empty

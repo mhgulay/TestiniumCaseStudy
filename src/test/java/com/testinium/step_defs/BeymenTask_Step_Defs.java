@@ -40,6 +40,8 @@ public class BeymenTask_Step_Defs {
         mainPage.allowCookies.click();
         waitTwoSeconds();
         mainPage.selectGender.click();
+        waitTwoSeconds();
+        mainPage.allowButton.click();
     }
 
     @When("the homepage is loaded")
